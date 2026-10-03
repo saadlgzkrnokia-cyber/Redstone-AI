@@ -11,7 +11,7 @@ created_at: "2026-10-03"
 Hello!! it's my first day on the project, so as a grown man have 15 yo, I decide to pick the parts.
 I 'll use the Raspberry Pi Zero 2 W as the brain of the project, thanks to the low-power usage and powerful processor that can run all the other components. And a 5" touchscreen to control the agent by touch, as well as the INMP441 as the microphone for a the voice commands, speaker for the communication (with an AMP ofc), and a Raspberry Pi Cam model for the hand gesture recognition 
 what did i forget? ahh the battery so it can be portable, some button or a large screen like the Stream Deck, and the cooling so it doesn't over heat
-![components](images/Day1.png)
+![components](Day1.png)
 
 **Total time spent: 1 hours**
 
