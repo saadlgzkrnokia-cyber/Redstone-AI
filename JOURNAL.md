@@ -15,3 +15,9 @@ what did i forget? ahh the battery so it can be portable, some button or a large
 
 **Total time spent: 1 hours**
 
+# Octobre 4: PCB parts picking
+
+Hello!! so for today i didn't do much, i just search for the parts schematics online with there pricing, but the PCB layout is still empty, so see you tomorrow (it'll be a VERYY hard day, cuz i have to work from school without internet and without a TABLE TO PUT MY LAPTOP ON!!!!!!!!!) 
+![components](Day2.png)
+
+**Total time spent: 1 hours**
